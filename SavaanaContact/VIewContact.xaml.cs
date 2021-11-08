@@ -21,7 +21,7 @@ namespace SavaanaContact
     {
         public VIewContact()
         {
-            InitializeComponent();
+            InitializeComponent();//s1
         }
     }
 }
